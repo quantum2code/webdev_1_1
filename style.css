@@ -84,7 +84,7 @@ main {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    gap: 7rem;
+    gap: 6rem;
 }
 
 .hero-section .section-content {
@@ -258,6 +258,7 @@ main {
 /* Banner */
 
 .banner .container {
+    margin-top: 8rem;
     display: grid;
     grid-template-columns: 1fr 1fr;
     column-gap: 10rem;
@@ -345,7 +346,7 @@ main {
     padding: 5rem;
     display: grid;
     grid-template-columns: 5fr 1fr 5fr 1fr 5fr;
-    column-gap: 4rem;
+    column-gap: 3rem;
     justify-items: center;
     background-color: black;
     height: 35rem;
